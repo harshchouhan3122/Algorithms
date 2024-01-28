@@ -1,4 +1,4 @@
-# Algorithms
+<h1 align="center">Algorithms</h1>
 This repository is about the algorithms used for Searching and Sorting.
 
 ## Notes
